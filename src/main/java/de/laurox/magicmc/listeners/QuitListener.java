@@ -1,4 +1,4 @@
-package de.laurox.magicmc.Listeners;
+package de.laurox.magicmc.listeners;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

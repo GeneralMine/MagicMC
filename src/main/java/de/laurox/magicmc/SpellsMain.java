@@ -1,8 +1,8 @@
 package de.laurox.magicmc;
 
-import de.laurox.magicmc.Listeners.ChatListener;
-import de.laurox.magicmc.Listeners.JoinListener;
-import de.laurox.magicmc.Listeners.QuitListener;
+import de.laurox.magicmc.listeners.ChatListener;
+import de.laurox.magicmc.listeners.JoinListener;
+import de.laurox.magicmc.listeners.QuitListener;
 import de.laurox.magicmc.util.Config;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.Plugin;

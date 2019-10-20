@@ -1,4 +1,4 @@
-package de.laurox.magicmc.Listeners;
+package de.laurox.magicmc.listeners;
 
 import de.laurox.magicmc.util.Config;
 import org.bukkit.entity.Player;
