@@ -1,0 +1,8 @@
+main: de.laurox.magicmc.SpellsMain
+name: MagicMC
+prefix: TUM
+author: Laurox
+version: 1.0
+api-version: 1.14
+
+commands:
